@@ -4,8 +4,8 @@ A full-stack social network simulation built as a team project.
 Includes authentication, feed posting, social interactions, and user discovery.
 
 ## Repositories
-- **Client (React):** <PUT_LINK_TO_AsafRez/SocialNetworkApp>
-- **Server (Java):** <PUT_LINK_TO_AsafRez/Social_Server>
+- **Client (React):** https://github.com/AsafRez/SocialNetworkApp
+- **Server (Java):** https://github.com/AsafRez/Social_Server
 
 ## Features
 - Register / Login
