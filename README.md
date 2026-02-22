@@ -33,16 +33,9 @@ Includes authentication, feed posting, social interactions, and user discovery.
 2. `npm start`
 3. Open `http://localhost:3000`
 
-## Screenshots
-Add images under `/docs`:
-- `docs/login.png`
-- `docs/feed.png`
-- `docs/profile.png`
-
 ## Team & Contribution
 Built as a team project.
 
-**Team:** Asaf Rez, Evyatar Ridi  
 **My contributions (Evyatar):**
 - Implemented and refined authentication/login logic and related flows
 - Implemented user search and user discovery features
